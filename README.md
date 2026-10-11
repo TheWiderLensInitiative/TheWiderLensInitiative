@@ -17,6 +17,19 @@ included, for payout emails and virtual cards before they expire. No account, no
 
 [**Get ClaimScout**](https://claimscout.thewiderlens.info) · [Download](https://github.com/TheWiderLensInitiative/claimscout/releases/latest) · [Code](https://github.com/TheWiderLensInitiative/claimscout)
 
+### 💻 C Terminal: your PC's terminal, in your pocket
+An Android app plus a small companion for **your own PC**, connected over your private Tailscale network. Sessions
+keep running when you close the app, your phone buzzes when a command finishes or waits for an answer, and in away
+mode Claude Code asks your phone before it runs anything. No passwords, no SSH keys, no relay server.
+
+[**Get C Terminal**](https://cterminal.thewiderlens.info) · [Download](https://github.com/TheWiderLensInitiative/c-terminal/releases/latest) · [Code](https://github.com/TheWiderLensInitiative/c-terminal)
+
+### 🔑 ClaraKey: your keys, your control
+A portable, offline encrypted vault that runs from a **USB drive**: authenticator codes, recovery codes, passwords,
+API tokens, SSH keys, notes and files. It never goes online. No cloud, no account.
+
+[**Get ClaraKey**](https://clarakey.thewiderlens.info) · [Download](https://github.com/TheWiderLensInitiative/clarakey/releases/latest) · [Code](https://github.com/TheWiderLensInitiative/clarakey)
+
 ### 📰 The Wider Lens: AI news, without the hype
 Real-time AI news, research, new models and open-source projects, gathered from public sources with a transparent
 pipeline: [**thewiderlens.info**](https://thewiderlens.info)
