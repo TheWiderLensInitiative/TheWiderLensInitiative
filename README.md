@@ -15,7 +15,7 @@ A free, self-hosted settlement finder: a server on **your own PC** plus an Andro
 action settlements, finds the proof in your own email (read-only, from your phone) and watches your inbox, Spam
 included, for payout emails and virtual cards before they expire. No account, no subscription.
 
-[**Download**](https://github.com/TheWiderLensInitiative/claimscout/releases/latest) · [Code](https://github.com/TheWiderLensInitiative/claimscout)
+[**Get ClaimScout**](https://claimscout.thewiderlens.info) · [Download](https://github.com/TheWiderLensInitiative/claimscout/releases/latest) · [Code](https://github.com/TheWiderLensInitiative/claimscout)
 
 ### 📰 The Wider Lens: AI news, without the hype
 Real-time AI news, research, new models and open-source projects, gathered from public sources with a transparent
