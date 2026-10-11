@@ -10,6 +10,13 @@ files and memories never leave your computer.
 
 [**Get Clara**](https://clara.thewiderlens.info) · [Code](https://github.com/TheWiderLensInitiative/clara) · [▶️ Demo](https://www.youtube.com/watch?v=42DrnEKDVrE) · [🧪 **Join the beta**](https://clara.thewiderlens.info/beta) · [🤗 Laya router model](https://huggingface.co/TheWiderLensInitiative/laya-for-clara)
 
+### 🐶 ClaimScout: find class action money you're owed
+A free, self-hosted settlement finder: a server on **your own PC** plus an Android app. It matches you to open class
+action settlements, finds the proof in your own email (read-only, from your phone) and watches your inbox, Spam
+included, for payout emails and virtual cards before they expire. No account, no subscription.
+
+[**Download**](https://github.com/TheWiderLensInitiative/claimscout/releases/latest) · [Code](https://github.com/TheWiderLensInitiative/claimscout)
+
 ### 📰 The Wider Lens: AI news, without the hype
 Real-time AI news, research, new models and open-source projects, gathered from public sources with a transparent
 pipeline: [**thewiderlens.info**](https://thewiderlens.info)
